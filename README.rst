@@ -10,4 +10,4 @@ Installation
 
 .. code-block:: bash
 
-    pip install mrbabel_data
+    pip install mrbabel-data
