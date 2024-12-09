@@ -22,4 +22,4 @@ tmp/
 docs/generated/
 docs_build/
 
-src/torchsim/_version.py
+src/mrbabel_data/_version.py
